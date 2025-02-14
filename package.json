@@ -1,8 +1,8 @@
 {
-  "name": "ci-synk",
+  "name": "lab5",
   "version": "1.0.20",
   "description": "A tabbed pane component using React.js",
-  "author": "indumathiveluchamy",
+  "author": "akanksha",
   "license": "MIT",
   "repository": "indumathiveluchamy/lab5",
   "main": "dist/index.js",
@@ -52,6 +52,8 @@
     "dist"
   ],
   "dependencies": {
-   
+    "jquery": "^3.6.2",
+    "sass": "^1.63.2",
+    "yarn": "^1.22.19"
   }
 }
